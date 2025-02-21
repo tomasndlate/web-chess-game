@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://ml-experiment-ai.vercel.app/">
-    <img src="public/images/icon.png" alt="Experiment.AI logo" width="80" height="80">
+  <a href="#">
+    <img src="code/src/main/webapp/images/favicon.ico" alt="Web Chess Game logo" width="80" height="80">
   </a>
 
   <h1 align="center">Web Chess Game</h1>
@@ -10,7 +10,7 @@
      A full-stack application to play chess online
     <br />
     <br />
-    <a href="https://ml-experiment-ai.vercel.app/"><strong>Explore Web Chess Game live »</strong></a>
+    <a href="#"><strong>Explore Web Chess Game live »</strong></a>
     <br />
   </p>
 </div>
